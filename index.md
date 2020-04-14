@@ -1,8 +1,8 @@
 ---
 layout: home
 permalink: /
-title: "Your Awesome Site"
-excerpt: "A Coming Soon Template"
+title: "CUMPLES MES DE OZ y ANDRE"
+excerpt: "Espera un momento"
 ---
-# Website is coming soon
-Tell the users that your website is not active yet. Put the reason to subscribe for the notification in this paragraph. Tell them about their problems which you would like to solve. Don’t forget the final call to action.
+# Vuelve pronto Oz Amado
+Espero que te pongas igual de ansioso como cuando no me querías mostrar los dibujitos de Cirque Du Soleil. Te Amo. Tú regalo está en construcción.
