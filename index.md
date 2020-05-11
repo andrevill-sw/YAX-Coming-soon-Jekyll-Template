@@ -1,8 +1,8 @@
 ---
 layout: home
 permalink: /
-title: "CUMPLES MES DE OZ y ANDRE"
-excerpt: "Espera un momento"
+title: "CUMPLES MES EN CUARENTENA VS 2.0"
+excerpt: "Tu novio está trabajando en tu regalito..."
 ---
 # Vuelve pronto Oz Amado
-Espero que te pongas igual de ansioso como cuando no me querías mostrar los dibujitos de Cirque Du Soleil. Te Amo. Tú regalo está en construcción.
+Amorcito mío un monito está trabajando en tu regalito de MES. hehe TE AMO!
